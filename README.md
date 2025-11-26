@@ -1,4 +1,3 @@
-AIRBEAT Radio Player
 AIRBEAT è una moderna applicazione web Single-Page (SPA) per la riproduzione di stazioni radio internet. Costruita con un'interfaccia "Cyber-Violet" accattivante, offre accesso a migliaia di stazioni globali grazie all'integrazione con le API di Radio Browser, il tutto senza necessità di un backend dedicato.
 
 ✨ Caratteristiche Principali
